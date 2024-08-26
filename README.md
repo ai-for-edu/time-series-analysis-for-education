@@ -68,7 +68,6 @@ If you find this repository helpful for your work, please kindly cite our survey
 * 2020: Educational data mining: a systematic review of research and emerging trends. [[Paper]](https://www.emerald.com/insight/content/doi/10.1108/IDD-09-2019-0070/full/html)
 * 2020: Educational data mining and learning analytics: An updated survey. [[Paper]](https://doi.org/10.1002/widm.1355)
 * 2019: A systematic review of deep learning approaches to educational data mining. [[Paper]](https://doi.org/10.1155/2019/1306039)
-* 2019: A systematic review of deep learning approaches to educational data mining. [[Paper]](https://go.gale.com/ps/i.do?id=GALE%7CA613619209&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=10762787&p=AONE&sw=w)
 * 2018: Educational data mining applications and tasks: A survey of the last 10 years. [[Paper]](https://link.springer.com/article/10.1007/s10639-017-9616-z)
 
 ### Data mining vs. Learning analytics
@@ -183,5 +182,9 @@ and educational data mining. [[Paper]](https://wires.onlinelibrary.wiley.com/doi
 * [Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM)
 * [Journal of Learning Analytics](https://www.solaresearch.org/publications/journal/)
 * [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076)
-* [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education)
 * [International Journal of Artificial Intelligence in Education](https://link.springer.com/journal/40593)
+* [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education)
+* [Educational Research Review](https://www.journals.elsevier.com/educational-research-review)
+* [Journal of Computer Assisted Learning](https://onlinelibrary.wiley.com/journal/13652729)
+* [British Journal of Educational Technology](https://bera-journals.onlinelibrary.wiley.com/journal/14678535)
+* [International Journal of Technology Enhanced Learning](https://www.inderscience.com/jhome.php?jcode=ijtel)
