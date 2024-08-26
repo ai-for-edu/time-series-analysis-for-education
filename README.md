@@ -18,6 +18,7 @@ Authors: Shengzhong Mao, Chaoli Zhang, Yichi Song, Jindong Wang, Xiao-Jun Zeng, 
 <b>Fig. 2</b> Comparison of our survey with existing educational surveys (last 5 years).
 </p>
 
+The paper introduces and elaborates on four primary time series methods—forecasting, classification, clustering, and anomaly detection—highlighting their specific applications in educational contexts, as presented in Fig. 3. By examining how these methods are utilized, we can discover valuable applications and guide future research in this evolving field.
 
 <p align="center">
 <img src="https://github.com/ai-for-edu/time-series-analysis-for-education/blob/main/img3.png" height = "350" alt="" align=center />
@@ -25,27 +26,35 @@ Authors: Shengzhong Mao, Chaoli Zhang, Yichi Song, Jindong Wang, Xiao-Jun Zeng, 
 <b>Fig. 3</b> The overview of time series analysis in educational contexts. 
 </p>
 
+If you find this repository helpful for your work, please kindly cite our survey paper.
+
+```bibtex
+@article{xxx,
+  title={Time Series Analysis for Education: Methods, Applications, and Future Directions}, 
+  author={xxx},
+  journal={arXiv preprint arXiv:xxx},
+  year={2024}
+}
+```
+
 ## Table of Contents
-- [Educational data mining](#Educational data mining)
-  * [Educational data mining surveys](#Educational data mining surveys)
-  * [Data mining vs. Learning analytics](#Data mining vs. Learning analytics)
-  * [Multimodal learning | Data fusion](#Multimodal learning | Data fusion)
- 
-- [Educational Tasks and Applications](#Educational Tasks and Applications)
-	* [Acedemic performance prediction](#Academic performance)
-	* [Learner behaviour analysis](#Learner behaviour analysis)
-	* [Anomaly/outlier detection](#Anomaly/outlier detection)
-
-- [Public educational datasets](#Public educational datasets)
-	* [UCI ML Repository](#UCI ML Repository)
-	* [Mendeley Data Repository](#Mendeley Data Repository)
-	* [Harvard Dataverse Repository](#Harvard Dataverse Repository)
-	* [Educational Competitions](#Educational Competitions)
-	* [Miscellaneous Sources](#Miscellaneous Sources)
-
-- [Educational venues](#Educational venues)
-  * [Conferences & Workshops](#Conferences & Workshops)
-  * [Journals](#Journals)
+  * [Educational data mining](#educational-data-mining)
+    + [Educational data mining surveys](#educational-data-mining-surveys)
+    + [Data mining vs. Learning analytics](#data-mining-vs-learning-analytics)
+    + [Multimodal learning and Data fusion](#multimodal-learning-and-data-fusion)
+  * [Educational Tasks and Applications](#educational-tasks-and-applications)
+    + [Academic performance prediction](#academic-performance-prediction)
+    + [Learner behaviour analysis](#learner-behaviour-analysis)
+    + [Anomaly and outlier detection](#anomaly-and-outlier-detection)
+  * [Public educational datasets](#public-educational-datasets)
+    + [UCI ML Repository](#uci-ml-repository)
+    + [Mendeley Data Repository](#mendeley-data-repository)
+    + [Harvard Dataverse Repository](#harvard-dataverse-repository)
+    + [Educational Competitions](#educational-competitions)
+    + [Miscellaneous Sources](#miscellaneous-sources)
+  * [Educational venues](#educational-venues)
+    + [Conferences and Workshops](#conferences-and-workshops)
+    + [Journals](#journals)
 
 ## Educational data mining
 ### Educational data mining surveys
@@ -71,7 +80,7 @@ Authors: Shengzhong Mao, Chaoli Zhang, Yichi Song, Jindong Wang, Xiao-Jun Zeng, 
 * 2020: Educational data mining and learning analytics: An updated survey. [[Paper]](https://doi.org/10.1002/widm.1355)
 * 2019: Educational data mining and learning analytics for 21st century higher education: A review and synthesis. [[Paper]](https://doi.org/10.1016/j.tele.2019.01.007)
 
-### Multimodal learning | Data fusion
+### Multimodal learning and Data fusion
 * 2022: A review on data fusion in multimodal learning analytics
 and educational data mining. [[Paper]](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1458)
 * 2022: Multimodal educational data fusion for students' mental health detection. [[Paper]](https://ieeexplore.ieee.org/iel7/6287639/6514899/09810926.pdf)
@@ -102,7 +111,7 @@ and educational data mining. [[Paper]](https://wires.onlinelibrary.wiley.com/doi
 * 2021: [HTML] Synthesis of student engagement with digital technologies: a systematic review of the literature. [[Paper]](https://link.springer.com/article/10.1186/s41239-021-00270-1)
 * 2020: Utilizing Student Time Series Behaviour in Learning Management Systems for Early Prediction of Course Performance. [[Paper]](https://eric.ed.gov/?id=EJ1273765)
 
-### Anomaly/outlier detection
+### Anomaly and outlier detection
 * 2024: Anomaly detection in the course evaluation process: a learning analytics–based approach. [[Paper]](https://www.emerald.com/insight/content/doi/10.1108/ITSE-09-2022-0124/full/html)
 * 2023: Anomaly Detection in the Course Evaluation Process. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-19-7892-0_8)
 * 2023: Context-aware analysis of group submissions for group anomaly detection and performance prediction. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26892)
@@ -154,5 +163,9 @@ and educational data mining. [[Paper]](https://wires.onlinelibrary.wiley.com/doi
 * **Junyi Academy Dataset**: Student interaction data with the Junyi Academy platform, detailing study durations and response accuracy. [[Link]](https://www.kaggle.com/datasets/junyiacademy/learning-activity-public-dataset-by-junyi-academy)
 
 ## Educational venues
-### Conferences & Workshops
+### Conferences and Workshops
+* [International Conference on Educational Data Mining (EDM)](#https://educationaldatamining.org/conferences/)
+* [Artificial Intelligence in Education (AIED)](#https://iaied.org/)
+
 ### Journals
+* [Journal of Educational Data Mining](#https://jedm.educationaldatamining.org/index.php/JEDM)
