@@ -164,8 +164,24 @@ and educational data mining. [[Paper]](https://wires.onlinelibrary.wiley.com/doi
 
 ## Educational venues
 ### Conferences and Workshops
-* [International Conference on Educational Data Mining (EDM)](#https://educationaldatamining.org/conferences/)
-* [Artificial Intelligence in Education (AIED)](#https://iaied.org/)
+* [International Conference on Educational Data Mining (EDM)](https://educationaldatamining.org/conferences/)
+* [Artificial Intelligence in Education (AIED)](https://iaied.org/)
+* [International Conference on Learning Analytics & Knowledge](https://www.solaresearch.org/events/lak/)
+* [ACM Conference on Learning @ Scale](https://learningatscale.hosting.acm.org/las2024/)
+* [ACM Special Interest Group on Computer Science Education](https://www.sigcse.org/)
+* [IEEE International Conference on Advanced Learning Technologies](https://ieeexplore.ieee.org/xpl/conhome/1000009/all-proceedings)
+* [IEEE CAI Workshop on AI for Education](https://ai-for-edu.github.io/workshop_cai2024.html)
+* [KDD Workshop on AI for Education](https://ai-for-edu.github.io/workshop_kdd2024.html)
+* [KDD Tutorial on Multimodal Educational Data Mining in K-12 Education](https://ai4ed.cc/tutorials/kdd2020)
+* [AAAI Workshop on Artificial Intelligence for Education](https://ai4ed.cc/workshops/aaai2022)
+* [IJCAI Workshop on Artificial Intelligence for Education](https://ai4ed.cc/workshops/ijcai2021/)
+* [NeurIPS Workshop on Machine Learning for Education](https://www.the-learning-agency.com/neurips-2020.html)
+* [ICML Workshop on Machine Learning for Education](http://ml4ed.cc/2015-icml-workshop/)
+
 
 ### Journals
-* [Journal of Educational Data Mining](#https://jedm.educationaldatamining.org/index.php/JEDM)
+* [Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM)
+* [Journal of Learning Analytics](https://www.solaresearch.org/publications/journal/)
+* [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076)
+* [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education)
+* [International Journal of Artificial Intelligence in Education](https://link.springer.com/journal/40593)
