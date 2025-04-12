@@ -29,10 +29,10 @@ The paper introduces and elaborates on four primary time series methods—foreca
 If you find this repository helpful for your work, please kindly cite our survey paper.
 
 ```bibtex
-@article{xxx,
-  title={Time Series Analysis for Education: Methods, Applications, and Future Directions}, 
-  author={xxx},
-  journal={arXiv preprint arXiv:xxx},
+@article{mao2024time,
+  title={Time series analysis for education: Methods, applications, and future directions},
+  author={Mao, Shengzhong and Zhang, Chaoli and Song, Yichi and Wang, Jindong and Zeng, Xiao-Jun and Xu, Zenglin and Wen, Qingsong},
+  journal={arXiv preprint arXiv:2408.13960},
   year={2024}
 }
 ```
